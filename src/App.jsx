@@ -1,9 +1,10 @@
 import React from "react";
+import CompA from "./CompA";
 
 const App = () => {
   return (
     <>
-      <h1>Hello Tarun</h1>
+      <CompA />
     </>
   );
 };
